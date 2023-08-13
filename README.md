@@ -1,0 +1,2 @@
+# gataria-devops
+Devops Notes
