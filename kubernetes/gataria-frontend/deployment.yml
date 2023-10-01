@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: gataria-frontend
-        image: paulohmorais/gataria-frontend:dev
+        image: paulohmorais/gataria-frontend:dev2
         ports:
-        - containerPort: 80
+        - containerPort: 3000
