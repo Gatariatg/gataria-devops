@@ -5,3 +5,4 @@ metadata:
   namespace: dev
 data:
   MONGO_DATABASE: "dev"
+  CATAPI_URL: "https://api.thecatapi.com/v1/images/search"
